@@ -1,0 +1,5 @@
+Fish Black false
+Bird Orange true
+Primates Brown true
+Reptiles Yellow false
+Amphibians Blue false

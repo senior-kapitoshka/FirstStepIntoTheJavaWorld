@@ -1,0 +1,5 @@
+Water Plastic 100
+Soda Glass 50
+Coke Cardboard 30
+Syrup Paper 95
+Coconut milk Can 40

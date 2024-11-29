@@ -1,0 +1,10 @@
+32 Pokrovskaya WOMAN
+33 Fillipova WOMAN
+45 Leonov MAN
+65 Kochetkov MAN
+34 Tarasova WOMAN
+44 Kozlov MAN
+67 Sokolova WOMAN
+22 Lapteva WOMAN
+88 Usov MAN
+23 Nikonov MAN
